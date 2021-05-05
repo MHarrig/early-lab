@@ -1,4 +1,4 @@
-let person = 'Lee';
+ let person = 'Lee';
 
 function greeting() {
   let person = 'Meg';
